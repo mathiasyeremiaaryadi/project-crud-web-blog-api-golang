@@ -143,6 +143,7 @@ Request
 
 Response
 ```
+HTTP 200/OK
 {
     "status": "success",
     "data": [
@@ -182,6 +183,7 @@ Request
 
 Response
 ```
+HTTP 200/OK
 {
     "status": "success",
     "data": [
