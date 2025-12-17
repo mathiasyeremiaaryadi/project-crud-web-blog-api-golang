@@ -1,9 +1,8 @@
-# Golang Expenses Tracker CLI APP
+# Golang CRUD Web Blog Post API
 
 This is a CLI application for expense tracker to manage your expenses. 
 
 Project from: https://roadmap.sh/projects/blogging-platform-api
-
 
 
 ## Features
@@ -204,7 +203,7 @@ Response
 ## Clone the project
 
 ```bash
-https://github.com/mathiasyeremiaaryadi/project-crud-web-blog-api-golang.git
+git clone https://github.com/mathiasyeremiaaryadi/project-crud-web-blog-api-golang.git
 ```
 
 Go to the project directory
